@@ -1,2 +1,2 @@
-# Programmer 's Rights and Interests Protection Alliance of China
-Programmer 's Rights and Interests Protection Alliance of China
+# 中国程序员权益保护互助联盟
+中国程序员权益保护互助联盟
